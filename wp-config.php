@@ -15,6 +15,13 @@
  * @package WordPress
  */
 
+
+/*
+define('DB_USER', 'gioftu73_elefunk');
+define('DB_PASSWORD', 'elefunk_palla');
+define('DB_HOST', '89.31.72.136');
+ */
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'elefunk2014');
