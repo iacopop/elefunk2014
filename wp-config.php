@@ -24,7 +24,7 @@ define('DB_HOST', '89.31.72.136');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'elefunk2014');
+define('DB_NAME', '');
 
 /** MySQL database username */
 define('DB_USER', 'root');
